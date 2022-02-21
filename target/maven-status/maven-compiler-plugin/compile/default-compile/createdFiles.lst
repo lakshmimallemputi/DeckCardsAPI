@@ -1,0 +1,9 @@
+com\cards\spring\api\SpringSeleniumApplication.class
+com\cards\spring\api\utils\annotation\LazyAutowired.class
+com\cards\spring\api\utils\annotation\Page.class
+com\cards\spring\api\doto\Card.class
+com\cards\spring\api\doto\DrawCards.class
+com\cards\spring\api\service\RestCall.class
+com\cards\spring\api\utils\annotation\LazyConfiguration.class
+com\cards\spring\api\doto\ShuffleCards.class
+com\cards\spring\api\doto\ReturnCards.class

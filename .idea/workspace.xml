@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c8681af-ef44-44d8-bf00-70a277bbbc25" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_xml_bind_jaxb_osgi_2_2_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_json_path_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_rest_assured_common_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_rest_assured_xml_path_3_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_sling_org_apache_sling_javax_activation_0_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ccil_cowan_tagsoup_tagsoup_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_json_2_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_groovy_groovy_xml_2_5_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cards/spring/api/doto/ReturnCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zopa-Loans.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DeckCard.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zopa-TestPlan.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/SpringSeleniumApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/pages/Base.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/pages/LoanFormPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/pages/LoansPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/pages/constants/EmploymentTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/pages/constants/Hometypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/pages/constants/LoanTypes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/pages/constants/Titles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/annotation/LazyAutowired.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/annotation/LazyConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/annotation/Page.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/annotation/PageFragment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/annotation/TakeScreenshot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/annotation/ThreadScopeBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/annotation/Window.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/aop/ScreenshotAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/aop/WindowAspect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/config/FakerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/config/RemoteWebDriverConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/config/WebDriverConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/config/WebDriverWaitConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/scope/BrowserScope.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/scope/BrowserScopeConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/scope/BrowserScopePostProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/service/ScreenshotService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/utils/service/WindowSwitchService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/zopa/spring/selenium/CucumberRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/zopa/spring/selenium/bdd/CucumberHooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/zopa/spring/selenium/bdd/LoanSteps.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/FormValidation.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Loan.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/SpringSeleniumApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/pages/Base.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/pages/LoanFormPage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/pages/LoanFormPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/pages/LoansPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/pages/constants/EmploymentTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/pages/constants/Hometypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/pages/constants/LoanTypes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/pages/constants/Titles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/annotation/LazyAutowired.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/annotation/LazyConfiguration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/annotation/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/annotation/PageFragment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/annotation/TakeScreenshot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/annotation/ThreadScopeBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/annotation/Window.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/aop/ScreenshotAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/aop/WindowAspect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/config/FakerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/config/RemoteWebDriverConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/config/WebDriverConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/config/WebDriverWaitConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/scope/BrowserScope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/scope/BrowserScopeConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/scope/BrowserScopePostProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/service/ScreenshotService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zopa/spring/selenium/utils/service/WindowSwitchService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/cucumber-html-reports/embeddings/embedding_15295090.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/cucumber-html-reports/report-feature_classpath-features-FormValidation-feature.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/cucumber-html-reports/report-feature_classpath-features-Loan-feature.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-html-report/cucumber-html-reports/report-tag_Loans.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber-report/embedded0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.zopa.spring.selenium.CucumberRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.zopa.spring.selenium.CucumberRunner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.zopa.spring.selenium.CucumberRunner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zopa/spring/selenium/CucumberRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zopa/spring/selenium/bdd/CucumberHooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/zopa/spring/selenium/bdd/LoanSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/FormValidation.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/Loan.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/zopa-spring-selenium-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/zopa-spring-selenium-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>I navigate to Zopa loans page</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\lmullagu\Desktop\Zopa</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
+  </component>
+  <component name="ProjectId" id="25IDemQ0Sd9bkfPP2FvSWrj0mOJ" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Zopa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zopa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zopa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zopa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zopa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zopa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zopa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zopa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zopa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zopa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zopa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zopa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zopa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zopa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zopa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zopa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zopa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zopa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zopa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zopa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="bdd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zopa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zopa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Zopa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Zopa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/cards/spring" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lmullagu\Desktop\DeckCards\src\test\resources\features\api" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c8681af-ef44-44d8-bf00-70a277bbbc25" name="Default Changelist" comment="" />
+      <created>1645161625601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645161625601</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cards/spring/selenium/doto/Card.java</url>
+          <line>7</line>
+          <properties class="com.cards.spring.selenium.doto.Card" method="getCard">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/FormValidation.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zopa/spring/selenium/bdd/LoanSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zopa/spring/selenium/pages/LoansPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

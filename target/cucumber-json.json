@@ -1,0 +1,188 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-02-21T04:45:10.793Z",
+        "line": 5,
+        "name": ": Remaining cards correctly updated after drawing",
+        "description": "",
+        "id": "deck-card-feature;:-remaining-cards-correctly-updated-after-drawing",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1587592100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I Shuffle the cards with 1 deck",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 25
+                }
+              ],
+              "location": "com.cards.spring.api.bdd.CardDeckSteps.iShuffleTheCardsWithDeck(int)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 289388500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I Draw the cards",
+            "match": {
+              "location": "com.cards.spring.api.bdd.CardDeckSteps.iDrawCards()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 184769200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I return the first drawn card to deck",
+            "match": {
+              "location": "com.cards.spring.api.bdd.CardDeckSteps.iReturnTheFirstDrawnCardToDeck()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 184775500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I Draw the cards",
+            "match": {
+              "location": "com.cards.spring.api.bdd.CardDeckSteps.iDrawCards()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 166756300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I return the first drawn card to deck",
+            "match": {
+              "location": "com.cards.spring.api.bdd.CardDeckSteps.iReturnTheFirstDrawnCardToDeck()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 167706200,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I Draw the cards",
+            "match": {
+              "location": "com.cards.spring.api.bdd.CardDeckSteps.iDrawCards()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 204219900,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I return the first drawn card to deck",
+            "match": {
+              "location": "com.cards.spring.api.bdd.CardDeckSteps.iReturnTheFirstDrawnCardToDeck()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 199361500,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "I Draw the cards",
+            "match": {
+              "location": "com.cards.spring.api.bdd.CardDeckSteps.iDrawCards()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 275517500,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "I return the first drawn card to deck",
+            "match": {
+              "location": "com.cards.spring.api.bdd.CardDeckSteps.iReturnTheFirstDrawnCardToDeck()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 262149400,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "I Draw the cards",
+            "match": {
+              "location": "com.cards.spring.api.bdd.CardDeckSteps.iDrawCards()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 168229200,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "I return the first drawn card to deck",
+            "match": {
+              "location": "com.cards.spring.api.bdd.CardDeckSteps.iReturnTheFirstDrawnCardToDeck()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 970100,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "I validate the remaining number of cards",
+            "match": {
+              "location": "com.cards.spring.api.bdd.CardDeckSteps.i_can_see_number_of_remaing_cards_as()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Card"
+          }
+        ]
+      }
+    ],
+    "name": "Deck Card Feature",
+    "description": "",
+    "id": "deck-card-feature",
+    "keyword": "Feature",
+    "uri": "classpath:features/DeckCard.feature",
+    "tags": [
+      {
+        "name": "@Card",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
